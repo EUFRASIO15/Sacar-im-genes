@@ -1,0 +1,5 @@
+{
+  "name": "Asistente de Imágenes DILSE",
+  "description": "Una aplicación que busca y muestra imágenes de lengua de signos española desde el diccionario DILSE de la Fundación CNSE, utilizando una palabra proporcionada por el usuario.",
+  "requestFramePermissions": []
+}
